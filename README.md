@@ -6,3 +6,5 @@ There were 3 modes for which dataset to load in the system: Minimal - Lite - Ful
 
 In each dataset model, two custom entries have been added for convinience: [username: user - password: 123], and [username: admin - password: 123].
 These entries have been manually set to bypass the usual password restrictions. They provide an easy way to expore both user-related commands and admin-specific commands with an easy log in method.
+
+I also recommend looking at the "project breakdown.pdf" file for a clear explanation on how this project is structured
